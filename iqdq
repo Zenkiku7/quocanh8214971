@@ -43,12 +43,12 @@ getgenv().WeaponsSetting = {
             },
 
             ["C"] = {
-                ["Enable"] = true,
+                ["Enable"] = false,
                 ["HoldTime"] = 0,
                 ["TimeToNextSkill"] = 0,
             },
             ["V"] = {
-                ["Enable"] = true,
+                ["Enable"] = false,
                 ["HoldTime"] = 0,
                 ["TimeToNextSkill"] = 0,
             },
