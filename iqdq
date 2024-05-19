@@ -1,5 +1,5 @@
 script_key = "CATiHYXlMJIsNtwSIahsNiPeIrRGHcDE" -- cf by Binn
-getgenv().Team = "Marines"
+getgenv().Team = "Pirates"
 
 getgenv().WeaponsSetting = {
     ["Melee"] = {
